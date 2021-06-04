@@ -6,10 +6,10 @@
  * Time: 2:42 PM
  */
 
-$servername = "localhost";
-$username = "root";
-$password = "";
-$database = 'user';
+$servername = "remotemysql.com";
+$username = "MK7KrRYTrY";
+$password = "dIkMGwwBr4";
+$database = 'MK7KrRYTrY';
 
 // Create connection
 $conn = new mysqli($servername, $username, $password);
